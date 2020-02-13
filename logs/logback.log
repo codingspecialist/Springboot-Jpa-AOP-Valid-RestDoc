@@ -1,0 +1,1 @@
+[2020-02-13 12:21:32:4009781][http-nio-8080-exec-1] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품수정() => 필드 : price 메시지 : 가격을 입력하세요.
