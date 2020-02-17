@@ -1,0 +1,105 @@
+= REST Service API Guide
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+= Resources
+
+== Product REST Service
+
+The Product provides the entry point into the service.
+
+=== Accessing the Product POST with provided content
+
+==== Request structure
+
+== 상품전체조회 [get]
+
+상품전체조회
+
+include::{snippets}/product-controller-test/상품전체조회/curl-request.adoc[]
+
+=== 요청 구조
+
+include::{snippets}/product-controller-test/상품전체조회/http-request.adoc[]
+
+==== 요청 파라미터들
+
+include::{snippets}/product-controller-test/상품전체조회/request-body.adoc[]
+
+=== 응답 구조
+
+include::{snippets}/product-controller-test/상품전체조회/http-response.adoc[]
+
+==== 응답 파라미터들
+
+include::{snippets}/product-controller-test/상품전체조회/response-fields.adoc[]
+
+== 상품상세조회 [get]
+
+상품상세조회
+
+include::{snippets}/product-controller-test/상품상세조회/curl-request.adoc[]
+
+=== 요청 구조
+
+include::{snippets}/product-controller-test/상품상세조회/http-request.adoc[]
+
+==== 요청 파라미터들
+
+include::{snippets}/product-controller-test/상품상세조회/request-body.adoc[]
+
+=== 응답 구조
+
+include::{snippets}/product-controller-test/상품상세조회/http-response.adoc[]
+
+==== 응답 파라미터들
+
+include::{snippets}/product-controller-test/상품상세조회/response-fields.adoc[]
+
+== 상품등록 [post]
+
+상품등록
+
+include::{snippets}/product-controller-test/상품등록/curl-request.adoc[]
+
+=== 요청 구조
+
+include::{snippets}/product-controller-test/상품등록/http-request.adoc[]
+
+==== 요청 파라미터들
+
+include::{snippets}/product-controller-test/상품등록/request-body.adoc[]
+
+=== 응답 구조
+
+include::{snippets}/product-controller-test/상품등록/http-response.adoc[]
+
+==== 응답 파라미터들
+
+include::{snippets}/product-controller-test/상품등록/response-body.adoc[]
+
+== 상품수정 [put]
+
+상품수정
+
+include::{snippets}/product-controller-test/상품수정/curl-request.adoc[]
+
+=== 요청 구조
+
+include::{snippets}/product-controller-test/상품수정/http-request.adoc[]
+
+==== 요청 파라미터들
+
+include::{snippets}/product-controller-test/상품수정/request-body.adoc[]
+
+=== 응답 구조
+
+include::{snippets}/product-controller-test/상품수정/http-response.adoc[]
+
+==== 응답 파라미터들
+
+include::{snippets}/product-controller-test/상품수정/response-body.adoc[]

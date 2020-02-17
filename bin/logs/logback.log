@@ -1,0 +1,8 @@
+[2020-02-14 15:26:04:7263][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-14 15:26:05:7518][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품수정() => 필드 : name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-14 15:27:07:8308][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-14 15:27:07:8477][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품수정() => 필드 : name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-14 15:28:11:7299][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : name 메시지 : 상품명의 길이가 초과되었습니다.
+[2020-02-14 15:28:11:7315][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품등록() => 필드 : name 메시지 : 상품명에 한글이 입력될 수 없습니다.
+[2020-02-14 15:28:11:7508][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품수정() => 필드 : name 메시지 : 상품명의 길이가 초과되었습니다.
+[2020-02-14 15:28:11:7508][main] WARN  c.c.b.aop.warn.BindingAdvice - com.cos.bindingresult.controller.ProductController.상품수정() => 필드 : name 메시지 : 상품명에 한글이 입력될 수 없습니다.

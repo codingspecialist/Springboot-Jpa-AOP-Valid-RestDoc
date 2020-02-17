@@ -24,8 +24,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @AutoConfigureRestDocs(uriScheme = "http", uriHost = "localhost", uriPort = 8080)
 public class ProductControllerTest extends AbstractControllerTest {
 
-	private ObjectMapper mapper;
-
 	@Test
 	public void 상품등록() throws Exception {
 
