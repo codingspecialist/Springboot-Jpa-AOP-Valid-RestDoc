@@ -1,0 +1,9 @@
+[source,options="nowrap"]
+----
+{
+  "id" : 0,
+  "name" : "냉장고",
+  "price" : 2000000,
+  "ordering" : 2
+}
+----

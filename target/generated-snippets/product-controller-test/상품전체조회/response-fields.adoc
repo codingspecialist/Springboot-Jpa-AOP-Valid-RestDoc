@@ -1,0 +1,20 @@
+|===
+|Path|Type|Description
+
+|`+[].id+`
+|`+Number+`
+|상품번호
+
+|`+[].name+`
+|`+String+`
+|상품명
+
+|`+[].price+`
+|`+class java.lang.Integer+`
+|상품가격
+
+|`+[].ordering+`
+|`+class java.lang.Integer+`
+|상품주문수
+
+|===

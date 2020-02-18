@@ -1,0 +1,15 @@
+[source,http,options="nowrap"]
+----
+POST /api/product HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Accept: application/json
+Content-Length: 81
+Host: localhost:8080
+
+{
+  "id" : 0,
+  "name" : "세탁기",
+  "price" : 100000,
+  "ordering" : 1
+}
+----

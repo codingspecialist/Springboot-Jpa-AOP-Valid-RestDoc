@@ -1,0 +1,7 @@
+[source,options="nowrap"]
+----
+{
+  "statusCode" : 200,
+  "msg" : "ok"
+}
+----

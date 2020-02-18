@@ -1,0 +1,12 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/api/product' -i -X POST \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -H 'Accept: application/json' \
+    -d '{
+  "id" : 0,
+  "name" : "세탁기",
+  "price" : 100000,
+  "ordering" : 1
+}'
+----

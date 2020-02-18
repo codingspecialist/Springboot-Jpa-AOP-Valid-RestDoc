@@ -1,0 +1,11 @@
+[source,bash]
+----
+$ echo '{
+  "id" : 0,
+  "name" : "세탁기",
+  "price" : 100000,
+  "ordering" : 1
+}' | http POST 'http://localhost:8080/api/product' \
+    'Content-Type:application/json;charset=UTF-8' \
+    'Accept:application/json'
+----
